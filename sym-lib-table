@@ -1,3 +1,4 @@
 (sym_lib_table
   (lib (name "tp4056")(type "KiCad")(uri "${KIPRJMOD}/lib/tp4056/tp4056.kicad_sym")(options "")(descr ""))
+  (lib (name "ftdi-connector")(type "KiCad")(uri "${KIPRJMOD}/lib/ftdi-connector/ftdi-connector.kicad_sym")(options "")(descr ""))
 )
