@@ -1,3 +1,3 @@
 (fp_lib_table
-  (lib (name "tp4056")(type "KiCad")(uri "${KIPRJMOD}/lib/tp4056/tp4056.pretty")(options "")(descr ""))
+  (lib (name "usb-a-pcb")(type "KiCad")(uri "${KIPRJMOD}/lib/usb-a-pcb/usb-a-pcb.pretty")(options "")(descr ""))
 )

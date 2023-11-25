@@ -857,7 +857,7 @@
     (uuid b11863f2-05f0-4c70-9612-53388c5c7348)
     (property "Reference" "J1" (id 0) (at 62.992 25.4 0))
     (property "Value" "USB_A" (id 1) (at 62.992 27.94 0))
-    (property "Footprint" "Connector_USB:USB_A_CNCTech_1001-011-01101_Horizontal" (id 2) (at 66.802 39.878 0)
+    (property "Footprint" "usb-a-pcb:usb-a-pcb" (id 2) (at 66.802 39.878 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" " ~" (id 3) (at 66.802 39.878 0)
@@ -1039,7 +1039,7 @@
       (reference "#PWR0114") (unit 1) (value "+3V3") (footprint "")
     )
     (path "/b11863f2-05f0-4c70-9612-53388c5c7348"
-      (reference "J1") (unit 1) (value "USB_A") (footprint "Connector_USB:USB_A_CNCTech_1001-011-01101_Horizontal")
+      (reference "J1") (unit 1) (value "USB_A") (footprint "usb-a-pcb:usb-a-pcb")
     )
     (path "/8fe39038-0f26-46f1-8a00-7161b7c20514"
       (reference "JP1") (unit 1) (value "PROG") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical")
