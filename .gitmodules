@@ -4,3 +4,6 @@
 [submodule "lib/usb-a-pcb"]
 	path = lib/usb-a-pcb
 	url = https://github.com/besi/kicad-usb-a-pcb
+[submodule "lib/neopixel-strip"]
+	path = lib/neopixel-strip
+	url = https://github.com/besi/kicad-neopixel-strip

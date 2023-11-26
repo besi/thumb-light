@@ -1,3 +1,4 @@
 (sym_lib_table
   (lib (name "ftdi-connector")(type "KiCad")(uri "${KIPRJMOD}/lib/ftdi-connector/ftdi-connector.kicad_sym")(options "")(descr ""))
+  (lib (name "neopixel-strip")(type "KiCad")(uri "${KIPRJMOD}/lib/neopixel-strip/neopixel-strip.kicad_sym")(options "")(descr ""))
 )

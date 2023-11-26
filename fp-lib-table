@@ -1,3 +1,4 @@
 (fp_lib_table
   (lib (name "usb-a-pcb")(type "KiCad")(uri "${KIPRJMOD}/lib/usb-a-pcb/usb-a-pcb.pretty")(options "")(descr ""))
+  (lib (name "neopixel-strip")(type "KiCad")(uri "${KIPRJMOD}/lib/neopixel-strip/neopixel-strip.pretty")(options "")(descr ""))
 )
