@@ -53,7 +53,7 @@
     )
     (pad_to_mask_clearance 0)
     (pcbplotparams
-      (layerselection 0x00010fc_ffffffff)
+      (layerselection 0x0001000_fffffffe)
       (disableapertmacros false)
       (usegerberextensions false)
       (usegerberattributes true)
@@ -79,11 +79,11 @@
       (plotinvisibletext false)
       (sketchpadsonfab false)
       (subtractmaskfromsilk false)
-      (outputformat 1)
+      (outputformat 3)
       (mirror false)
-      (drillshape 1)
+      (drillshape 0)
       (scaleselection 1)
-      (outputdirectory "")
+      (outputdirectory "plot")
     )
   )
 
@@ -255,7 +255,7 @@
     (fp_line (start 0.66 -1.25) (end 0.66 1.25) (layer "F.Fab") (width 0.1) (tstamp a3a8f4d5-7ccf-4584-b6ea-d5b0ced38fb8))
     (pad "1" thru_hole oval (at 0 0 180) (size 3 1.7) (drill 1) (layers *.Cu *.Mask)
       (net 4 "Net-(U3-Pad2)") (pintype "passive") (tstamp 33d97944-b89d-41e2-82a3-c344116c1d2a))
-    (pad "2" thru_hole oval (at 7.62 0 180) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask)
+    (pad "2" thru_hole oval (at 7.62 0 180) (size 1.6 1.6) (drill 1) (layers *.Cu *.Mask)
       (net 1 "GND") (pintype "passive") (tstamp c6369107-3a65-4ec9-a769-5211982cada9))
     (model "${KICAD6_3DMODEL_DIR}/Resistor_THT.3dshapes/R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal.wrl"
       (offset (xyz 0 0 0))
