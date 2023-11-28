@@ -2,7 +2,14 @@
 
   (uuid 67e44ebc-3f6d-4971-bf31-c3b74ab1e8fb)
 
-  (paper "A4")
+  (paper "E")
+
+  (title_block
+    (title "ThumbLight")
+    (date "2023-11-28")
+    (rev "v1.1-beta")
+    (company "Besmer Labs")
+  )
 
   (lib_symbols
     (symbol "Connector:USB_A" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
