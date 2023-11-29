@@ -826,7 +826,7 @@
   (gr_text "Flash Problems: Detect >> 4MB Flash" (at 74 67) (layer "F.Fab") (tstamp 469071e0-f193-4088-b82c-e3143e6087d1)
     (effects (font (size 1.5 1.5) (thickness 0.3)) (justify left))
   )
-  (gr_text "TODO:\n\n- Neopixel needs more space and flat underground\n- Switches pads need to move to the outside of the switch" (at 73 50) (layer "F.Fab") (tstamp 55b7eb85-4643-4cc3-befd-462f604a829e)
+  (gr_text "TODO:\n\n- Neopixel needs more space and flat underground\n- Switches pads need to move to the outside of the switch\n- Fix DHT11\n- Neopixel add header 3 x connector \n" (at 73 50) (layer "F.Fab") (tstamp 55b7eb85-4643-4cc3-befd-462f604a829e)
     (effects (font (size 1.5 1.5) (thickness 0.3)) (justify left))
   )
 
